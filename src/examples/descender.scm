@@ -9,5 +9,4 @@
 ; Now run it
 (descender)
 
-; Gets down 70 layers before recursion depth is exceeded
-
+; Gets down 70 layers before default recursion depth limit is exceeded
